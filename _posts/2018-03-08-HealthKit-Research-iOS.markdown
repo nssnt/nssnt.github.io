@@ -16,6 +16,10 @@ HealthKit APIs had been introduced from iOS 8.0 and WatchOS 2.0 or later.
 * content
 {:toc}
 
+
+
+
+
 Healthkit is used to manage data from a wide range of sources, automatically merging the data from difference sources based on users' preferences, and Apps can also access the raw data for each sources, merging them in their own way.
 
 As health data can be sensitive to users, Healthkit grants the users the permission control over all the information that they want and do not want to share to other apps, meanwhile the user can explicitly grant each app the permission to read and write data to the Healthkit store and user can grant or deny permission separately for each type of data. For example, the user could let the app to read the weight, but prevent it from reading the age. 
