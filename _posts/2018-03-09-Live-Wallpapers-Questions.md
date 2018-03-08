@@ -19,7 +19,7 @@ Current backend just simply responding for requesting content from frontend, and
 	- Cannot differentiate the wallpapers size for different sizes of device screen.
 		- iPhone 6s/6s+, 7/7++ and 8/8+
 		- iPhone X
-    
+   
 
  
  
