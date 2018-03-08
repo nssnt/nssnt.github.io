@@ -18,7 +18,9 @@ Current backend just simply responding for requesting content from frontend, and
 
 * content
 {:toc}    
-    
+ 
+ 
+ 
     
 - Question:
 	- Do we need to categorise the image?
