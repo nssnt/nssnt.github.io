@@ -5,10 +5,15 @@ categories: Wallpapers
 tags:  wallpapers live question backend requirement question
 author: Leo
 ---
+Dicuss what is needed and missing in our app, and looking for a balance solution on cost and quality.
+
+
 
 
 * content
 {:toc}    
+
+
 
 
 ## Backend
@@ -19,17 +24,8 @@ Current backend just simply responding for requesting content from frontend, and
 	- Cannot differentiate the wallpapers size for different sizes of device screen.
 		- iPhone 6s/6s+, 7/7++ and 8/8+
 		- iPhone X
-   
 
- 
- 
- 
- 
- 
- 
- 
- 
-    
+
 - Question:
 	- Do we need to categorise the image?
 		- From backend or frontend?
@@ -67,7 +63,7 @@ For now the app is just directly showing the live wallpapers one by one through 
 	- Needs thumbnails for live wallpapers to create a gallery view like our other wallpapers? Or Just directly go to large image view?
 		- For now, no popular live wallpapers use gallery view for live wallpaper apps.
 	- Share? Example, [Live Wallpapers Now](https://itunes.apple.com/app/id1098805023) which is the one with most user reviews.
-	- Like (Self collection)? Example, [Live Wallpapers Now](https://itunes.apple.com/app/id1098805023) which is the one with most user reviews. 
+	- Like (Self collection)? Example, [Live Wallpapers Now](https://itunes.apple.com/app/id1098805023) which is the one with most user reviews.
 	- Report of content?
 - Content
 	- Situation
@@ -84,15 +80,15 @@ For now the app is just directly showing the live wallpapers one by one through 
 					- Lack of creativity
 			- Create content through transferring videos?
 				- Require to create a content creator
-				- Will be comparably faster in mass production 
+				- Will be comparably faster in mass production
 				- Wider choices of content
 ## Monetization:
-- Situation: 
+- Situation:
 	- Banner Ads
 	- Interstitial Ads
 - Questions?
 	- As no thumbnail list, do we need rectangle in between the large images?
-	- Popular live wallpapers provide premium membership to access all further and existing content with no ads; or video ads to unlock certain content. 
-		- Do we need to add video ads? 
-		- Or subscription for premium content? 
+	- Popular live wallpapers provide premium membership to access all further and existing content with no ads; or video ads to unlock certain content.
+		- Do we need to add video ads?
+		- Or subscription for premium content?
 		- Or direct purchase through IAP?
