@@ -6,15 +6,15 @@ tags:  research ios healthkit apple sample
 author: Leo
 ---
 
-* content
-{:toc}
-
 # iOS HealthKit Deep Research
 1/24/2018 3:16:37 PM 
 ## Introduction
 HealthKit APIs had been introduced from iOS 8.0 and WatchOS 2.0 or later.
 **Build Requirement:** iOS 8 SDK and Xcode 8
 **Runtime Requirement:** iOS 8 SDK
+
+* content
+{:toc}
 
 Healthkit is used to manage data from a wide range of sources, automatically merging the data from difference sources based on users' preferences, and Apps can also access the raw data for each sources, merging them in their own way.
 
