@@ -24,6 +24,11 @@ Current backend just simply responding for requesting content from frontend, and
  
  
  
+ 
+ 
+ 
+ 
+ 
     
 - Question:
 	- Do we need to categorise the image?
