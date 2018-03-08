@@ -6,8 +6,6 @@ tags:  research ios healthkit apple sample
 author: Leo
 ---
 
-# iOS HealthKit Deep Research
-1/24/2018 3:16:37 PM 
 ## Introduction
 HealthKit APIs had been introduced from iOS 8.0 and WatchOS 2.0 or later.
 **Build Requirement:** iOS 8 SDK and Xcode 8
