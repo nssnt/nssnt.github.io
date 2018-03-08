@@ -14,14 +14,14 @@ url: "https://nssnt.github.io/" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: 
-facebook_username: 
-github_username:  
-email: 
-weibo_username: 
-zhihu_username: hll643435675
-linkedIn_username: 
-dribbble_username:
+# twitter_username: 
+# facebook_username: 
+# github_username:  
+# email: 
+# weibo_username: 
+# zhihu_username:
+# linkedIn_username: 
+# dribbble_username:
 
 description_footer: For self study only！
 
