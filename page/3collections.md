@@ -86,9 +86,13 @@ type: page
 
 ## 类库与插件
 
-* [Android UI相关开源库汇总](https://github.com/opendigg/awesome-github-android-ui#%E5%90%AF%E5%8A%A8%E9%A1%B5)
+* [Android UI相关开源库汇总1](https://github.com/opendigg/awesome-github-android-ui#%E5%90%AF%E5%8A%A8%E9%A1%B5)
 
-    又OpenDigg整理并维护，每周更新。
+    由OpenDigg整理并维护，每周更新。
+
+* [Android UI相关开源库汇总2](https://github.com/wasabeef/awesome-android-ui)
+
+* [iOS UI相关开源库汇总](https://github.com/cjwirth/awesome-ios-ui)
 
 * [Masonry](http://masonry.desandro.com/)
 
