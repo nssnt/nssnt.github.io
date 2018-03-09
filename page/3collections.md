@@ -81,6 +81,10 @@ type: page
 
 ## 类库与插件
 
+* [Android UI相关开源库汇总](https://github.com/opendigg/awesome-github-android-ui#%E5%90%AF%E5%8A%A8%E9%A1%B5)
+
+    又OpenDigg整理并维护，每周更新。
+
 * [Masonry](http://masonry.desandro.com/)
 
     瀑布流布局库。
