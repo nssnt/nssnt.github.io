@@ -41,7 +41,7 @@ type: page
 
 * [UIVisualEffectView教程](https://juejin.im/post/5a97b3ad6fb9a028d4440004?utm_source=gold_browser_extension)
 
-![效果图](https://user-gold-cdn.xitu.io/2018/3/1/161e096288823f98?imageView2/0/w/1280/h/960/format/webp/ignore-error/1){:height="50%" width="50%"}
+    ![效果图](https://user-gold-cdn.xitu.io/2018/3/1/161e096288823f98?imageView2/0/w/1280/h/960/format/webp/ignore-error/1){:height="50%" width="50%"}
 
 作者：小小小迪子
 链接：https://www.jianshu.com/p/e9f18be1295d
