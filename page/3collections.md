@@ -14,6 +14,20 @@ type: page
 
    各种常用网站，工具以及相关知识合辑。
 
+## Google API
+* [Google Time Zone API](https://developers.google.com/maps/documentation/timezone/start)  
+    根据设备当前位置信息，请求特定的纬度/经度所对应的日期思绪信息，并且通过API返回该时区的名称，与协调世界世界时的时间偏移以及夏时令偏移。
+    JSON文件示例响应：
+    ```json
+    {
+   "dstOffset" : 3600,
+   "rawOffset" : -18000,
+   "status" : "OK",
+   "timeZoneId" : "America/New_York",
+   "timeZoneName" : "Eastern Daylight Time"
+    }
+    ```
+
 ## 文章
 * [Android复杂界面布局解决方案](http://blog.csdn.net/jixiongxu/article/details/79047951)
     解决复杂的ListView布局造成卡顿的问题。
