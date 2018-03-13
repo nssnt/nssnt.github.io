@@ -17,7 +17,7 @@ type: page
 ## Google API
 * [Google Time Zone API](https://developers.google.com/maps/documentation/timezone/start)  
 
-    根据设备当前位置信息，请求特定的纬度/经度所对应的日期思绪信息，并且通过API返回该时区的名称，与协调世界世界时的时间偏移以及夏时令偏移。
+    根据设备当前位置信息，请求特定的纬度/经度所对应的日期时区信息，并且通过API返回该时区的名称，与协调世界世界时的时间偏移以及夏时令偏移。
 
     JSON文件示例响应：
     ```json
