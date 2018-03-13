@@ -15,6 +15,9 @@ type: page
    各种常用网站，工具以及相关知识合辑。
 
 ## 文章
+* [Android复杂界面布局解决方案](http://blog.csdn.net/jixiongxu/article/details/79047951)
+    解决复杂的ListView布局造成卡顿的问题。
+
 * [iOS 中关于列表滚动流畅方案的一些探讨](https://juejin.im/post/5a9e6806f265da2384401a85?utm_source=gold_browser_extension)
 
 * [从自适应单元格高度说起-浅谈如何提高UITableView的加载效率](https://juejin.im/post/5a97b9436fb9a028c9797a19)
