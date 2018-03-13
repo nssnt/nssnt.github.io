@@ -43,10 +43,10 @@ type: page
 
     ![效果图](https://user-gold-cdn.xitu.io/2018/3/1/161e096288823f98?imageView2/0/w/1280/h/960/format/webp/ignore-error/1){:height="50%" width="50%"}
 
-作者：小小小迪子
-链接：https://www.jianshu.com/p/e9f18be1295d
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+      作者：小小小迪子
+      链接：https://www.jianshu.com/p/e9f18be1295d
+      來源：简书
+      著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## 工具
 
