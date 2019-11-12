@@ -13,8 +13,6 @@ url: "https://nssnt.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
-include: ['.htaccess']
-
 # other links
 # twitter_username: 
 # facebook_username: 
