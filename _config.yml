@@ -11,7 +11,8 @@ brief-intro: Self Study Note Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nssnt.github.io/" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/.well-known/
+permalink: /:year/:month/:day/:title/
+permalink: /.well-known/apple-app-site-association
 
 # other links
 # twitter_username: 
