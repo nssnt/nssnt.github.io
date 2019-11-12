@@ -49,7 +49,6 @@ kramdown:
 # port: 1234
 
 # url
-hidden_dir: .well-known/apple-app-site-association/
 category_dir: category/
 tag_dir: tag/
 
