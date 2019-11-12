@@ -42,7 +42,6 @@ google_analytics_id: UA-115386428-1 # google 分析追踪id
 markdown: kramdown
 
 kramdown:
-  include: .htaccess
   input: GFM
   syntax_highlighter: rouge
 
